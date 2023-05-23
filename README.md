@@ -16,6 +16,7 @@ Projeto desenvolvido durante a NLW (Next Level Week) da Rocketseat. Esta foi a 1
 - Expo 
 - TypeScript
 - Node.js
+- [Prisma.io](https://www.prisma.io/)
 - [Fastify](https://www.fastify.io/)
 - [Node e NPM](https://nodejs.org/)
 
