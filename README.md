@@ -2,7 +2,6 @@
 
 
 <img src="./assets/GIF/DESKTOP.gif" style="width: 800px" />
-<img src="./assets/GIF/MOBILE.gif" style="width: 300px" />
 
 
 Projeto desenvolvido durante a NLW (Next Level Week) da Rocketseat. Esta foi a 12ª edição. O projeto trata-se de uma cápsula do tempo, onde você possa registrar suas lembranças mais importantes da vida.
